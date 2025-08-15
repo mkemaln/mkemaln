@@ -2,8 +2,8 @@
 -->
 Nyahallo
 
-- 🔭 I’m currently on intern at PT. Geomedia Sinergi
-- 🌱 I’m currently learning Golang. Laravel
+- 🔭 I’m currently an intern at PT. Geomedia Sinergi
+- 🌱 I’m currently learning Golang, Laravel.
 - 💬 Ask me about ANYTHING! MEMES are also APPROVED!
 
 <!--
